@@ -1,6 +1,6 @@
 {
   "name": "mail",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Electron e-mail client",
   "main": "main.js",
   "scripts": {
@@ -16,5 +16,9 @@
     "nodemailer": "^5.1.1",
     "electron-packager": "latest",
     "update-electron-app": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zachary-Rude/mail.git"
   }
 }
