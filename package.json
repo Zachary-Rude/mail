@@ -1,0 +1,20 @@
+{
+  "name": "mail",
+  "version": "1.0.1",
+  "description": "Electron e-mail client",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Zach, Inc.",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "latest",
+    "gmail-send": "^1.2.14",
+    "imap": "^0.8.19",
+    "mailparser": "^2.5.0",
+    "nodemailer": "^5.1.1",
+    "electron-packager": "latest",
+    "update-electron-app": "latest"
+  }
+}
